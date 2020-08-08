@@ -1,0 +1,34 @@
+# main links links
+main:
+
+  - title: "Work Experience"
+    url: /workexp/
+    # research interests
+
+  - title: "Publications"
+    url: /publications/
+  # honours and awards
+
+  
+  - title: "Projects"
+    url: /projects/
+  # courses taken/completed
+
+  - title: "CV/Resume"
+    url: /resume/
+  # education background, transcipts
+
+
+  - title: "Service & Leadership"
+    url: /leadership/
+  #extracurriculars    
+
+
+  # - title: "Hobbies"
+  #   url: /hobbies/
+  # # sports, gym, chess, 
+
+
+  # - title: "Guide"
+  #   url: /markdown/
+    

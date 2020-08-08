@@ -1,0 +1,2 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+16/09/2016	SpotGarbage: Smartphone App to Detect Garbage using Deep Learning.	2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing	A smart phone app to detect and segment garbage in unconstrained real-world images using state-of-the-art computer vision and machine learning techniques.	Classification of Trash for Recyclability Status	SpotGarbage	https://dl.acm.org/citation.cfm?id=2971731
