@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaushal Yagnik"
+title                    : "Aesha Shah"
 title_separator          : "-"
-name                     : &name "Kaushal Yagnik"
+name                     : &name "Aesha Shah"
 description              : &description ""
-url                      : https://kbyagnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aeshaami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kbyagnik/kbyagnik.github.io"
+repository               : "aeshaami/aeshaami.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,11 +55,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "kbyagnik"
+  username               : 
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : 
+  app_id                 : 
+  publisher              : 
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -78,39 +78,39 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaushal Yagnik"
+  name             : "Aesha Shah"
   avatar           : "dp.png"
-  bio              : "Master of Engineering, Data Science & Systems, UC Berkeley"
-  location         : "California"
-  employer         : "Berkeley"
-  googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"
-  email            : "kaushal.yagnik@berkeley.edu"
-  uri              :
+  bio              : "Master of Science, Information Systems, Northeastern University"
+  location         : "Boston, MA"
+  employer         : "Tesla"
+  googlescholar    : ""
+  email            : "shah.aesh@northeastern.edu"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
-  github           : "kbyagnik"
+  foursquare       : 
+  github           : "aeshaami"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "kaushalyagnik"
-  orcid            : "http://orcid.org/0000-0002-9229-9163"
+  linkedin         : "aeshasaurinshah"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : "3840417/peaceful-soul"
-  steam            :
-  tumblr           :
-  twitter          : "kbyagnik"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  quora            : "Kaushal-Yagnik"
+  steam            : 
+  tumblr           : 
+  twitter          : ""
+  vine             : 
+  weibo            : 
+  xing             : 
+  youtube          : 
+  wikipedia        : 
+  quora            : ""
 
 
 # Reading Files
